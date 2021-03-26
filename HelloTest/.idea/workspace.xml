@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="960a1441-65da-4c87-9092-eaec27679570" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iteration/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iteration/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iteration/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iteration/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iteration/Iteration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iteration/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iteration/repeat.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Iteration/repeat_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +39,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Exercism/go/hello-world" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -134,7 +145,9 @@
       <workItem from="1615810489981" duration="2656000" />
       <workItem from="1615826051942" duration="1651000" />
       <workItem from="1615892080476" duration="172000" />
-      <workItem from="1616020872462" duration="1859000" />
+      <workItem from="1616020872462" duration="2555000" />
+      <workItem from="1616066825951" duration="36000" />
+      <workItem from="1616760140618" duration="1107000" />
     </task>
     <servers />
   </component>
